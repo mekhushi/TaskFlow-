@@ -3,7 +3,7 @@
 
 **TaskFlow++** is a lightweight C++ project that simulates how an operating system schedules processes and manages RAM. It uses Round Robin CPU scheduling and dynamic memory allocation to mimic how real multitasking works inside modern operating systems.
 
-![img](screenshots/added_process.png)
+![img](assets/SS1.jpg)
 
 ---
 ### ❓ What Problem Does It Solve?
@@ -22,10 +22,9 @@ This simulation makes abstract OS concepts **visual, testable, and hands-on** �
 
 ## 📸 Demo Screenshots
 
-> *(Add your screenshots in the `screenshots/` folder and update paths below)*
 
 ### ➕ Output
-![Added](screenshots/added_process.png)
+![Added](assets/SS2.png)
 
 ---
 
@@ -35,7 +34,7 @@ Anyone can try out TaskFlow++ on their machine by following these simple steps:
 
 ### 📥 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/TaskFlowCPP.git
+git clone https://github.com/mekhushi/TaskFlowCPP.git
 cd TaskFlowCPP
 
 ```
